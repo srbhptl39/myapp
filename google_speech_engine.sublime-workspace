@@ -1,0 +1,466 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"crome",
+				"chromeselection"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"X",
+				"X_train"
+			],
+			[
+				"eye",
+				"eye_cascade"
+			],
+			[
+				"fr",
+				"frame"
+			],
+			[
+				"res",
+				"res"
+			],
+			[
+				"f",
+				"frame"
+			],
+			[
+				"fra",
+				"frame_gray"
+			],
+			[
+				"img_",
+				"img_gray"
+			],
+			[
+				"img",
+				"img_bg"
+			],
+			[
+				"im",
+				"img_bg"
+			],
+			[
+				"mask",
+				"mask_inv"
+			],
+			[
+				"g",
+				"given_array"
+			],
+			[
+				"cred",
+				"credentials_json"
+			],
+			[
+				"sp",
+				"speech_recognition"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"r",
+				"runrecognizer"
+			],
+			[
+				"feature",
+				"feature_normalize"
+			],
+			[
+				"tra",
+				"train_y"
+			],
+			[
+				"cost",
+				"cost_history"
+			],
+			[
+				"co",
+				"cost_history"
+			],
+			[
+				"tr",
+				"train_y"
+			],
+			[
+				"train",
+				"training_epochs"
+			],
+			[
+				"te",
+				"test_x"
+			],
+			[
+				"n",
+				"n_dim"
+			],
+			[
+				"l",
+				"labels"
+			],
+			[
+				"fe",
+				"features"
+			],
+			[
+				"n_",
+				"n_training_samples"
+			],
+			[
+				"data",
+				"dataset"
+			],
+			[
+				"de",
+				"delimiter"
+			],
+			[
+				"type",
+				"typewrite"
+			],
+			[
+				"p",
+				"PAUSE"
+			],
+			[
+				"py",
+				"pyautogui"
+			],
+			[
+				"m",
+				"m_derivative"
+			],
+			[
+				"b",
+				"b_derivative"
+			],
+			[
+				"err",
+				"error_calculation"
+			],
+			[
+				"i",
+				"intial_m"
+			],
+			[
+				"ne",
+				"new_m"
+			],
+			[
+				"new",
+				"new_b"
+			],
+			[
+				"m_",
+				"m_gradient"
+			],
+			[
+				"le",
+				"learning_rate"
+			],
+			[
+				"B",
+				"b_current"
+			],
+			[
+				"st",
+				"starting_m"
+			],
+			[
+				"to",
+				"totalerror"
+			],
+			[
+				"point",
+				"points"
+			],
+			[
+				"num",
+				"num_iterations"
+			],
+			[
+				"for",
+				"forecast_out"
+			],
+			[
+				"Y_t",
+				"Y_test"
+			],
+			[
+				"fo",
+				"forecast_col"
+			],
+			[
+				"print",
+				"print_all"
+			],
+			[
+				"c",
+				"close"
+			],
+			[
+				"from",
+				"from_file"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "bra",
+		"selected_items":
+		[
+			[
+				"bra",
+				"git: branch"
+			],
+			[
+				"git",
+				"git: branch"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 587.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/dell/Desktop/GITHUB/Miner/README.md",
+		"/C/Users/dell/Desktop/GITHUB/Miner/miner.js",
+		"/C/Users/dell/Desktop/GITHUB/oss_first_contribution/Contributors.md",
+		"/C/Users/dell/Documents/Atmel Studio/GccApplication2/GccApplication2/Debug/GccApplication2.hex",
+		"/C/Python27/Lib/site-packages/pyscreenshot/__init__.py",
+		"/E/programs codes/OpenCV/Face_detection-HaarCascade.py",
+		"/E/programs codes/Google_speech_recognize_01.py",
+		"/C/Users/dell/loco.py",
+		"/E/programs codes/textTOSpeech.py",
+		"/E/programs codes/OpenCV/cv12_GrabCut foreground extraction.py",
+		"/E/programs codes/yoloMOdel01.py",
+		"/E/programs codes/snakepy/snake.py",
+		"/E/programs codes/OpenCV/delete02.py",
+		"/C/Users/dell/pysccreen shot.py",
+		"/E/programs codes/pysccreen shot.py",
+		"/E/programs codes/untitled01.py",
+		"/E/programs codes/Matplotlib3D01.py",
+		"/E/programs codes/new1.py",
+		"/E/programs codes/py1.py",
+		"/E/programs codes/pyautogui/pyautogui.py",
+		"/E/programs codes/snakepy/DQAgent.py",
+		"/E/programs codes/snakepy/DQNetwork.py",
+		"/E/programs codes/snakepy/agent.py",
+		"/E/programs codes/pythontutorial.py",
+		"/E/programs codes/pyautogui01.py",
+		"/E/programs codes/pyautogui01.pyc",
+		"/E/programs codes/OpenCV/HelloWorld.class",
+		"/E/programs codes/Linear regression/LineraReg2.py",
+		"/E/programs codes/linearsearchcodeblocks.cpp",
+		"/C/Users/dell/AppData/Roaming/Sublime Text 3/Packages/User/C_Run.sublime-build",
+		"/C/Users/dell/AppData/Roaming/Sublime Text 3/Packages/User/C++_RUN.sublime-build",
+		"/C/Users/dell/AppData/Roaming/Sublime Text 3/Packages/User/python3_Repl.sublime-build",
+		"/C/Users/dell/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/config/C/ipy_repl.py",
+		"/C/Users/dell/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/config/C/Main.sublime-menu",
+		"/E/programs codes/Binarysearch.cpp",
+		"/E/programs codes/Linear regression/LineraReg1.py",
+		"/C/Python27/Lib/site-packages/cv.py",
+		"/E/programs codes/linerareg_sklearn01.py",
+		"/C/Users/dell/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/config/Py/Main.sublime-menu",
+		"/C/Users/dell/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/config/Python/Main.sublime-menu",
+		"/E/programs codes/LineraReg2.py",
+		"/C/Users/dell/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/dell/AppData/Roaming/Sublime Text 3/Packages/User/python27.sublime-build"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/python3_Repl.sublime-build",
+	"project": "google_speech_engine.sublime-project",
+	"replace":
+	{
+		"height": 71.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 215.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"gradient_descent_runner"
+			]
+		],
+		"width": 490.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 180.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

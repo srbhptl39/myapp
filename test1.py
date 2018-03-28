@@ -4,3 +4,4 @@ samosa
 fries
 meethai
 halwa
+paneer
